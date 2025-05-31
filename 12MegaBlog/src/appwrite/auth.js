@@ -1,5 +1,4 @@
 import conf from '../conf/conf'
-
 import { Client, Databases, Account } from "appwrite";
 
 
