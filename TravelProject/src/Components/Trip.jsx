@@ -13,7 +13,7 @@ function Trip() {
                     heading="Trip in China "
                     text="Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam labore libero odit dolorum quod ducimus pariatur beatae! Iste, officiis nesciunt, assumenda debitis, fuga neque voluptatibus sapiente reiciendis repudiandae asperiores nulla!"
                 /><TripData
-                    image="https://plus.unsplash.com/premium_photo-1687710306899-10a3bfcacf9b?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTN8fGNvdHRhZ2V8ZW58MHx8MHx8fDA%3D"
+                    image="https://trippyplan.netlify.app/Assetsimg/8.jpg"
                     heading="Trip in China "
                     text="Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam labore libero odit dolorum quod ducimus pariatur beatae! Iste, officiis nesciunt, assumenda debitis, fuga neque voluptatibus sapiente reiciendis repudiandae asperiores nulla!"
                 />
