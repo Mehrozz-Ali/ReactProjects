@@ -60,7 +60,7 @@ img {
       display: none;
     }
 
-    .heroText h1 {
+    /* .heroText h1 {
         padding: 10px 20px;
         font-size: 1.1rem;
     }
@@ -74,5 +74,5 @@ img {
         padding: 0.6rem 1.1rem;
         border-radius: 6px;
         font-size: 1rem;
-    }
+    } */
 }
